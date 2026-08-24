@@ -1,0 +1,22 @@
+# MATLAB
+*.asv
+*.autosave
+*.m~
+*.mex*
+*.mexw*
+*.mexmaci*
+*.mexglx
+
+# Simulink
+*.slxc
+
+# MATLAB generated files
+*.log
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
