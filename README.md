@@ -261,13 +261,19 @@ Several extensions can be explored using this model:
 - Simulink–Simscape interfacing
 - Physical system simulation
 
+
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Armin Ilat**
-Electrical Engineering Student
+Undergraduate Electrical Engineering Student — Shahid Beheshti University (SBU)
 
-## License
+<!-- Add your contact links, e.g.: -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](your-linkedin-url) -->
+<!-- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email) -->
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
