@@ -267,12 +267,18 @@ Several extensions can be explored using this model:
 
 ## 👨‍💻 Author
 
-**Armin Ilat**
-Undergraduate Electrical Engineering Student — Shahid Beheshti University (SBU)
+**Armin Ilat**  
+Electrical Engineering Student
 
-<!-- Add your contact links, e.g.: -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](your-linkedin-url) -->
-<!-- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email) -->
+**Interests:**  
+Electrical Engineering · Scientific Computing · Programming · Digital Communications · Control Systems · Engineering Simulation
+
+### 🔗 Links
+
+- **LinkedIn:** [linkedin.com/in/armin-ilat](https://www.linkedin.com/in/armin-ilat/)
+- **GitHub:** [github.com/Armin-Il](https://github.com/Armin-Il)
+- **YouTube:** [@VoltVerse-Electrical](https://www.youtube.com/@VoltVerse-Electrical)
+
 
 ## 📄 License
 
