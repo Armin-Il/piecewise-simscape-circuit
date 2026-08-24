@@ -189,6 +189,7 @@ Piecewise Mathematical Signal
 │   └── transient_response.png
 │
 ├── README.md
+├── .gitignore
 └── LICENSE
 ```
 
